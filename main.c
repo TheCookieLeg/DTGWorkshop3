@@ -17,6 +17,7 @@ int main(void){
 
     printf("The sorted list \n");
     printList(L, L_size);
+
     return 0;
 }
 
